@@ -5,7 +5,7 @@
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Geo-electromagnetism*.
 I love using programming as a tool for making graphs and visualisations for my lab reports.
 
-As a graphic designer & illustrator, I enjoy looking at visually appealing websites and apps - that was the main reason why I started programming and set **my goal** to becoming a **Full-Stack Web Developer**.
+As a graphic designer & illustrator, I enjoy looking at visually appealing websites and apps - that was the main reason why I started programming and set **my goal** to becoming a **Full-Stack (Web) Developer**. I am a huge **Front-end lover** so becoming a Front-end Dev is my 1st milestone I set for myself.
 
 ### Technologies & Tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -16,7 +16,8 @@ As a graphic designer & illustrator, I enjoy looking at visually appealing websi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - :seedling: I’m currently learning: Python, JavaScript;
-- :herb: Main interest/my goal: Full-Stack Web Development;
+- :herb: Main interest: Front-end Development;
+- :herb: My goal: Full-Stack (Web) Development;
 
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weronika-wziątek-58bb041b0/)
