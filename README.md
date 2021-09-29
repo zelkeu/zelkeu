@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_heading.png)](https://github.com/zelkeu)
-
 #### I am a student at *AGH UST in Cracow*, Poland and a hobbyist *graphic designer & illustrator*.
 
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Geo-electromagnetism*.
