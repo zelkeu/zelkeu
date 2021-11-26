@@ -1,24 +1,23 @@
 [![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_heading.png)](https://github.com/zelkeu)
 #### I am a student at *AGH UST in Cracow*, Poland and a hobbyist *graphic designer & illustrator*.
 
-Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Geo-electromagnetism*.
+Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Well-Logging*.
 I love using programming as a tool for making graphs and visualisations for my lab reports.
 
-As a graphic designer & illustrator, I enjoy looking at visually appealing websites and apps - that was the main reason why I started programming and set **my goal** to becoming a **Full-Stack (Web) Developer**. I am a huge **Front-end lover** so becoming a Front-end Dev is my 1st milestone I set for myself.
+As a graphic designer & illustrator, I enjoy looking at visually appealing websites and apps - that is the main reason why I am a huge **Front-end lover**. Over time I started to realise that **Python** is an awesome tool for science students - now I am on my way to put a lot of effort into mastering it!
 
 ### Technologies & Tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-- :seedling: I’m currently learning: Python, JavaScript;
-- :herb: Main interest: Front-end Development;
-- :herb: My goal: Full-Stack (Web) Development;
+- :seedling: I’m currently learning: Python, Scikit-Learn;
+- :herb: Main interest: Machine Learning in Geosciences. 
 
 ### Contact:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weronika-wziątek-58bb041b0/)
