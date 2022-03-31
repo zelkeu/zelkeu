@@ -1,10 +1,11 @@
-[![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_heading.png)](https://github.com/zelkeu)
+[![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_header.png)](https://github.com/zelkeu)
 #### I am a student at *AGH UST in Cracow*, Poland and a hobbyist *graphic designer & illustrator*.
 
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Well-Logging*.
 I love using programming as a tool for making graphs and visualisations for my lab reports.
+Over time I started to realise that **Python** is an awesome tool for science students - now I am on my way to put a lot of effort into mastering it! 
 
-As a graphic designer & illustrator, I enjoy looking at visually appealing websites and apps - that is the main reason why I am a huge **Front-end lover**. Over time I started to realise that **Python** is an awesome tool for science students - now I am on my way to put a lot of effort into mastering it!
+As a graphic designer & illustrator, I enjoy making visually appealing posters, profile banners and social media graphics.
 
 ### Technologies & Tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
