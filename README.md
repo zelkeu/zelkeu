@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_header.png)](https://github.com/zelkeu)
-#### I am a student at *AGH UST in Cracow*, Poland and a hobbyist *graphic designer & illustrator*.
+#### I am a student at *AGH UST in Poland* and a hobbyist *graphic designer & illustrator*.
 
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Well-Logging*.
 I love using programming as a tool for making graphs and visualisations for my lab reports.
