@@ -3,9 +3,9 @@
 
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Well-Logging*.
 I love using programming as a tool for making graphs and visualisations for my lab reports.
-Over time I started to realise that **Python** is an awesome tool for science students - now I am on my way to put a lot of effort into mastering it! 
+Over time I started to realise that **Python** is an awesome tool for science students - now I am learning about its **machine learning** possibilities! 
 
-As a graphic designer & illustrator, I enjoy making visually appealing posters, profile banners and social media graphics.
+As a graphic designer & illustrator, I enjoy making visually appealing posters, profile banners and social media graphics; I really like to learn about UI/UX design too.
 
 ### Technologies & Tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
