@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_header.png)](https://github.com/zelkeu)
+[![MasterHead](https://github.com/zelkeu/zelkeu/blob/main/images/zelkeu_header_22.png)](https://github.com/zelkeu)
 #### I am a student at *AGH UST in Poland* and a freelance *graphic designer & illustrator*.
 
 Currently, I am studying **Geophysics** :mortar_board:, in which my main interest is *Well-Logging*.
